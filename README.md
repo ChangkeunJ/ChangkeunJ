@@ -1,7 +1,7 @@
 ## ‍ David Jang | Full-stack Developer (Open to Opportunities)
 
 > Optimized API latency from 800ms to 300ms for a service with 100K+ MAUs  
-> [reiot92@gmail.com](mailto:reiot92@gmail.com) | [LinkedIn](https://www.linkedin.com/in/changkeunj/) | [Notion Portfolio](https://www.notion.so/1eee3c63eeef8083a0ebc3962d4c71d3?source=copy_link)
+> [reiot92@gmail.com](mailto:reiot92@gmail.com) | [LinkedIn](https://www.linkedin.com/in/changkeunj/)
 
 ---
 
