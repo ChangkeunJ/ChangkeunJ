@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:reiot93@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:reiot92@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ChangkeunJ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ChangkeunJ&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
 </p>
