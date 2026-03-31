@@ -123,14 +123,8 @@ Currently: Freelance Full-Stack Developer & AI Service Builder
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChangkeunJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangkeunJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ChangkeunJ&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
 </p>
-
 ---
 
 <p align="center">
