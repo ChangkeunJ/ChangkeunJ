@@ -1,10 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+David+Jang+%F0%9F%91%8B;Full-Stack+Developer+%7C+10%2B+Years;From+Embedded+to+Cloud+%E2%98%81%EF%B8%8F;Based+in+Korea+%26+Australia+%F0%9F%8C%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=sudo+forever+start+devLife.systemctl" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="mailto:reiot92@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Code%20%7C%20Build%20%7C%20Deploy-3B82F6?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="/cdn-cgi/l/email-protection#d1a3b4b8bea5e8e291b6bcb0b8bdffb2bebc"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ChangkeunJ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ChangkeunJ&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
 </p>
 
 ---
