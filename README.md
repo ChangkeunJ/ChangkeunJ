@@ -1,10 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=sudo+forever+start+devLife.systemctl" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Code%20%7C%20Build%20%7C%20Deploy-3B82F6?style=for-the-badge"/>
-</p>
+```
+$ sudo forever start devLife.systemctl
+```
+
+❤️
+
+</div>
 
 <p align="center">
   <a href="/cdn-cgi/l/email-protection#d1a3b4b8bea5e8e291b6bcb0b8bdffb2bebc"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
