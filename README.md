@@ -22,7 +22,7 @@ $ sudo forever start devLife.systemctl
 Name: 장창근 (David Jang)
 Location: Busan, Korea 🇰🇷  ↔  Australia 🇦🇺
 Experience: 10+ years in Full-Stack Development
-Education: B.S. Computer Engineering, Dong-Eui University
+Education: B.S. Computer Engineering
 Currently: Freelance Full-Stack Developer & AI Service Builder
 ```
 
