@@ -90,7 +90,7 @@ Currently: Freelance Full-Stack Developer & AI Service Builder
 |--------|---------|------|------------|
 | **2024.09 ~ Present** | Freelancer | Full-Stack | Next.js/React 웹 서비스 · AI 서비스 기획·개발 · Cloudflare 인프라 관리 |
 | **2023.01 ~ 2024.08** | F**** 🇦🇺 | Full-Stack | 호주 현지 클라이언트 대상 웹 개발 · 서버 인프라 관리 · 영어 기반 PM |
-| **2019.04 ~ 2022.11** | J***** | Full-Stack | 여성 패션 이커머스 플랫폼 풀스택 개발 · PG사/택배 API 연동 · Linux 서버 운영 |
+| **2019.04 ~ 2022.11** | J***** | Full-Stack | 여성 패션 이커머스 플랫폼 풀스택 개발 |
 | **2016.03 ~ 2018.12** | 동**** | Full-Stack | 사내 웹 시스템 개발 · 서버 인프라 구축 및 관리 |
 
 ---
