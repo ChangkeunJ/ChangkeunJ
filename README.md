@@ -135,9 +135,5 @@ Currently: Freelance Full-Stack Developer & AI Service Builder
 ---
 
 <p align="center">
-  <i>"코드를 짜는 것을 넘어, 서비스 전체를 설계하고 책임지는 개발자"</i>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer"/>
 </p>
