@@ -9,7 +9,7 @@ $ sudo forever start devLife.systemctl
 </div>
 
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#d1a3b4b8bea5e8e291b6bcb0b8bdffb2bebc"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:changkeun.jang@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ChangkeunJ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ChangkeunJ&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
 </p>
@@ -95,11 +95,31 @@ Currently: Freelance Full-Stack Developer & AI Service Builder
 
 ---
 
+## 📚 Experience / Activities / Education
+
+| Period | Organization | Type | Details |
+|--------|-------------|------|---------|
+| **2014.09 ~ 2015.11** | 동의대학교 | 자원봉사 | 전공튜터링 튜터(Tutor) — 학과 내 후배들의 튜터활동 수행 |
+| **2013.10 ~ 2013.11** | 한국정보통신기술협회 | 교육이수 | 제 60차 SW 테스트 전문가 양성교육 (일반과정) |
+| **2013.04 ~ 2013.09** | 정보통신산업진흥원 | 수상과제 | 2013 제 2회 SW동아리 재능기부 챌린지 — 치킨 전문점 경쟁력 향상을 위한 홈페이지 인프라구축 및 브랜드 앱 제작 |
+| **2013.02 ~ 2013.02** | 경북대학교 반도체설계교육센터 (IDEC) | 교육이수 | Android ADK와 Arduino MegaADK 활용 교육 이수 |
+| **2012.11 ~ 2012.11** | 한국정보산업연합회 임베디드소프트웨어산업협의회 | 사회활동 | 제 10회 임베디드 소프트웨어 경진대회 결선 관계자 |
+| **2012.08 ~ 2012.08** | 동의대학교 | 교육이수 | 제 18기 "Challenge For Yourself!" 취업 캠프 이수 |
+| **2012.07 ~ 2012.08** | 동의대학교 앱창작터 | 교육이수 | 신화 개발자 아이폰 과정 |
+| **2011.03 ~ 2016.02** | D.V.C 창업동아리 / 동의대학교 | 동아리 | 창업동아리 동기와 함께 여러 프로젝트 수행 및 논문 작성 |
+| **2011.03 ~ 2016.02** | 동의대학교 컴퓨터공학과 연구실 | 교내활동 | 다수 프로젝트 수행 |
+
+---
+
 ## 🎓 Research
 
 📄 **Published Papers**
-- *아두이노를 이용한 영유아 심폐소생술 시스템 구현* — 한국정보처리학회 추계학술대회, 2013
-- *아두이노를 이용한 영유아 심폐소생술 보조 장비 구현* — 대한임베디드공학회 추계학술대회, 2013
+- *아두이노를 이용한 영유아 심폐소생술 시스템 구현* — 제 40회 한국정보처리학회 추계학술발표대회, 2013
+- *아두이노를 이용한 영유아 심폐소생술 보조 장비 구현* — 2013 대한임베디드공학회 추계학술대회, 2013
+- *증강현실을 활용한 가상 도약폭 구현* — 2014
+
+🎓 **Graduation Project**
+- *색각이상자를 위한 어플리케이션*
 
 ---
 
@@ -111,6 +131,9 @@ Currently: Freelance Full-Stack Developer & AI Service Builder
 | 2012 | KAIST 웨어러블 컴퓨터 경진대회 — 장려상 | KAIST |
 | 2011 | 군 표창 (군용 바코드 시스템 구현) | 육군 제7067부대 |
 | 2007 | TU 전국 정보과학 올림피아드 — 동상 | 동명대학교 |
+| 2007 | 컴퓨터 창의력 경진대회 — 동상 | 부산광역시 교육청 |
+| 2006 | 컴퓨터 창의력 경진대회 — 동상 | 부산광역시 교육청 |
+| 2006 | TU 전국 정보과학 올림피아드 — 장려상 | 동명대학교 |
 | 2006 | 전국 고교 ICT 경진대회 — 특상 (웹 개발) | 경남정보대학교 |
 
 <details>
@@ -132,7 +155,6 @@ Currently: Freelance Full-Stack Developer & AI Service Builder
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ChangkeunJ&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
 </p>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer"/>
