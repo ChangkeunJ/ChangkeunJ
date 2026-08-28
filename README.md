@@ -12,6 +12,11 @@ Things I made:
   over Australia's Federal Register of Legislation. Ask what an act said on any past date,
   and check citations against the official register before relying on them.
 
+- **[april-number](https://github.com/ChangkeunJ/april-number)** — what your own Australian
+  hospital policy's listed premium did on 1 April, rather than the industry average. Joins
+  two of the Ombudsman's monthly files; seven languages, nothing leaves the browser.
+  [Live](https://april-number.pages.dev/)
+
 Mostly Next.js, TypeScript and Cloudflare these days. Embedded research and e-commerce
 platforms before that.
 
