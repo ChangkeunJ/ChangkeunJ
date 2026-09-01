@@ -3,6 +3,12 @@ I build small tools that show their working.
 
 Things I made:
 
+- **[rent-check](https://github.com/ChangkeunJ/rent-check)** — what a tenancy actually starts
+  at, from the bond every Australian landlord has to lodge with the state. 1.8 million New South
+  Wales lodgements since 2021, so the quartiles are worked out here rather than taken from
+  someone else's median, and what each state's Act says about the increase.
+  [Live](https://rent-check-5kx.pages.dev/)
+
 - **[rate-ledger](https://github.com/ChangkeunJ/rate-ledger)** — every advertised rate the
   Australian banks publish under the Consumer Data Right, read once a day and kept with the
   dates each number held. 249 lenders and 24,000 rates, stored as intervals, so what a bank
