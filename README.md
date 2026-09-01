@@ -1,7 +1,12 @@
 Hi, I'm David (@ChangkeunJ), a freelance full-stack developer in Busan, Korea.
-I build small tools that run on your own machine.
+I build small tools that show their working.
 
 Things I made:
+
+- **[rate-ledger](https://github.com/ChangkeunJ/rate-ledger)** — every advertised rate the
+  Australian banks publish under the Consumer Data Right, read once a day and kept with the
+  dates each number held. 249 lenders and 24,000 rates, stored as intervals, so what a bank
+  was charging on a past date is still answerable. [Live](https://rate-ledger.pages.dev/)
 
 - **[paperpack](https://github.com/ChangkeunJ/paperpack)** — working holiday tax and
   departing superannuation for Australia, worked out in the browser. TypeScript, zero
@@ -17,7 +22,7 @@ Things I made:
   two of the Ombudsman's monthly files; seven languages, nothing leaves the browser.
   [Live](https://april-number.pages.dev/)
 
-Mostly Next.js, TypeScript and Cloudflare these days. Embedded research and e-commerce
+Mostly TypeScript, Postgres and Cloudflare these days. Embedded research and e-commerce
 platforms before that.
 
 [reiot92@gmail.com](mailto:reiot92@gmail.com)
