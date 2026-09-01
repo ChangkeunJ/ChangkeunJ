@@ -6,7 +6,8 @@ Things I made:
 - **[rent-check](https://github.com/ChangkeunJ/rent-check)** — what a tenancy actually starts
   at, from the bond every Australian landlord has to lodge with the state. 1.8 million New South
   Wales lodgements since 2021, so the quartiles are worked out here rather than taken from
-  someone else's median, and what each state's Act says about the increase.
+  someone else's median, plus the Queensland and Victorian medians, the suburbs behind each
+  postcode, and what each state's Act says about the increase.
   [Live](https://rent-check-5kx.pages.dev/)
 
 - **[rate-ledger](https://github.com/ChangkeunJ/rate-ledger)** — every advertised rate the
