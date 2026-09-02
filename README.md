@@ -3,6 +3,12 @@ I build small tools that show their working.
 
 Things I made:
 
+- **[shotscrub](https://github.com/ChangkeunJ/shotscrub)** — finds the keys, tokens and
+  passwords in a screenshot and covers them before you post it. Reads the image in the tab and
+  never uploads it, which is the point: the screenshots worth scrubbing are the ones you cannot
+  hand to a website. Black boxes over whole lines, never blur, since blur can be undone.
+  [Live](https://shotscrub.pages.dev/)
+
 - **[visa-times](https://github.com/ChangkeunJ/visa-times)** — how long each Australian visa is
   taking, read once a day and kept with the dates each number held. Home Affairs republishes the
   figure over the top and keeps nothing, so a month later there is no record of what it said.
