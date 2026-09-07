@@ -1,4 +1,4 @@
-Hi, I'm David (@ChangkeunJ), a freelance full-stack developer in Busan, Korea.
+Hi, I'm David (@ChangkeunJ), a freelance full-stack developer in Korea or Australia.
 I build small tools that show their working.
 
 Things I made:
