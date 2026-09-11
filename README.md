@@ -5,7 +5,9 @@ I'm working on [shotscrub](https://github.com/ChangkeunJ/shotscrub), a tool for 
 keys, tokens and passwords in screenshots before sharing them. The image stays in your
 browser. You can check the suggested boxes, add your own and save a redacted PNG.
 
-[![A terminal screenshot before and after its credentials are covered](https://raw.githubusercontent.com/ChangkeunJ/shotscrub/master/demo.gif)](https://shotscrub.pages.dev/)
+Sample image. All credentials shown below are fake.
+
+[![Sample terminal with fake credentials, before and after redaction](https://raw.githubusercontent.com/ChangkeunJ/shotscrub/master/demo.gif)](https://shotscrub.pages.dev/)
 
 [Try shotscrub](https://shotscrub.pages.dev/) or
 [pick a small contribution](https://github.com/ChangkeunJ/shotscrub/issues?q=is%3Aissue+is%3Aopen).
