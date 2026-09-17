@@ -24,4 +24,8 @@ Other work: [visa-times](https://github.com/ChangkeunJ/visa-times),
 [rate-ledger](https://github.com/ChangkeunJ/rate-ledger) and
 [april-number](https://github.com/ChangkeunJ/april-number).
 
+Upstream, I fixed [Beszel](https://github.com/henrygd/beszel/pull/2333)'s live charts being
+overwritten by a late history response, and a reload bug in its
+[user settings change](https://github.com/henrygd/beszel/pull/1831).
+
 [reiot92@gmail.com](mailto:reiot92@gmail.com)
